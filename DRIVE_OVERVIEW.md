@@ -1,0 +1,113 @@
+# Drive Overview
+
+Source: https://drive.google.com/drive/folders/1g_vLUpKz-_nbxKxBm3sL_0O53E9vgvYD
+
+Depth-2 entries listed: 107. Rclone status: 0.
+
+- `39672783092451592.gif`
+- `EGL/`
+- `EGL-310 (1)/`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/`
+- `EGL/100_2056.MOV`
+- `EGL/100_2057.MOV`
+- `EGL/A Rose for Emily.docx`
+- `EGL/A Rose for Emily1.docx`
+- `EGL/Abstract Expressionism is a modern art movement which came about in America a little after world war two.docx`
+- `EGL/Advertising cover.docx`
+- `EGL/Advertising has existed in the world since the beginning of our society.docx`
+- `EGL/Advertising.docx`
+- `EGL/American musicianin full Robert Sylvester Kelly.docx`
+- `EGL/Backup of EGL- How to succeed in College.wbk`
+- `EGL/Backup of EGL-Visiting Writer Program.wbk`
+- `EGL/Backup of Stages of Reading Literature as Aesthetic Experiencing.wbk`
+- `EGL/Backup of To Die Dreaming is a popular drink of that Dominican Republic.wbk`
+- `EGL/Backup of a rose for emily.wbk`
+- `EGL/Building my Future.docx`
+- `EGL/Cause and Effect.docx`
+- `EGL/Does man protect or destroy his environment.docx`
+- `EGL/EGL- A Song Analysis.docx`
+- `EGL/EGL- A Song Analysis1.docx`
+- `EGL/EGL- How to succeed in College.docx`
+- `EGL/EGL-Personality.docx`
+- `EGL/EGL-Visiting Writer Program.docx`
+- `EGL/EGL.docx`
+- `EGL/EGL101-Essay.docx`
+- `EGL/Functions of the Family.docx`
+- `EGL/Love versus Hate.docx`
+- `EGL/Persuasive Essay - Does man protect or destroy his environment.docx`
+- `EGL/Stages of Reading Literature as Aesthetic Experiencing.docx`
+- `EGL/The proof that she protected and preserved her past relies mainly on two elements.docx`
+- `EGL/The story.docx`
+- `EGL/To Die Dreaming is a popular drink of that Dominican Republic.docx`
+- `EGL/Tracks of My Life-1.docx`
+- `EGL/We as human beings make many decisions.docx`
+- `EGL/Workcite's essaay.docx`
+- `EGL/Young Goodman Brown. (2).docx`
+- `EGL/Young Goodman Brown..docx`
+- `EGL/Young Goodman Brown.1 (2).docx`
+- `EGL/Young Goodman Brown.1.docx`
+- `EGL/englishHW.docx`
+- `EGL/~$ung Goodman Brown..docx`
+- `EGL/~$ung Goodman Brown.1.docx`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/prezi.app/`
+- `EGL-310 (1)/39672783092451592.gif`
+- `EGL-310 (1)/AnotherArticle.doc`
+- `EGL-310 (1)/Article.doc`
+- `EGL-310 (1)/Assignment 9_Memo.docx`
+- `EGL-310 (1)/AssignmentforTuesdayEGL.doc`
+- `EGL-310 (1)/BackGround.jpg`
+- `EGL-310 (1)/BackGround1.jpg`
+- `EGL-310 (1)/Brochure - EGL-310.pdf`
+- `EGL-310 (1)/Brochure - EGL-310.pub`
+- `EGL-310 (1)/CSTEP_logo_bc.JPG`
+- `EGL-310 (1)/EGL-310 ASSIGNMENT6.doc`
+- `EGL-310 (1)/EGL-310 Assigment 7.docx`
+- `EGL-310 (1)/EGL-310 Assignment 6.doc`
+- `EGL-310 (1)/EGL-310 Assignment 6.pdf`
+- `EGL-310 (1)/EGL-310_Assigment_7.docx`
+- `EGL-310 (1)/EGL-310_Assignment_6.pdf`
+- `EGL-310 (1)/EGLFEB14.odt`
+- `EGL-310 (1)/Future Career and Social Media.doc`
+- `EGL-310 (1)/HAZB.jpg`
+- `EGL-310 (1)/Home Automation & Power Control.zip`
+- `EGL-310 (1)/INTERVIEW FINAL.doc`
+- `EGL-310 (1)/INTERVIEW FINAL.pdf`
+- `EGL-310 (1)/Instructuions EGL-310.doc`
+- `EGL-310 (1)/Interview Questions.doc`
+- `EGL-310 (1)/Interview Questions[1].doc`
+- `EGL-310 (1)/InterviewQuestions2.doc`
+- `EGL-310 (1)/Module Title.docx`
+- `EGL-310 (1)/Pages_Templates_User_Manual.pdf`
+- `EGL-310 (1)/Person to Interview.doc`
+- `EGL-310 (1)/Question_2_-_EGL_SECOND_ASSIGNMENT.docx`
+- `EGL-310 (1)/SKXbee User Manual_new.rtf`
+- `EGL-310 (1)/Smartmeter-Network.jpg`
+- `EGL-310 (1)/TheArticle.doc`
+- `EGL-310 (1)/TheInterviewReally.doc`
+- `EGL-310 (1)/TheInterviewReally.odt`
+- `EGL-310 (1)/ZigBee_Network(1).JPG`
+- `EGL-310 (1)/ZigBee_Network.JPG`
+- `EGL-310 (1)/Zigbee Network.jpg`
+- `EGL-310 (1)/as114anacle-systems-app-story.gif`
+- `EGL-310 (1)/assignment5.doc`
+- `EGL-310 (1)/assignment5.pdf`
+- `EGL-310 (1)/c00769879.pdf`
+- `EGL-310 (1)/cisco_home_energy_management_med_2.jpg`
+- `EGL-310 (1)/control4_EC100.jpg`
+- `EGL-310 (1)/egl-310 assignment 7a.docx`
+- `EGL-310 (1)/essay info.docx`
+- `EGL-310 (1)/farmingdale.gif`
+- `EGL-310 (1)/home automation.JPG`
+- `EGL-310 (1)/home-automation-power-control-pxygosgcbaic-068_151208_129013/`
+- `EGL-310 (1)/home-automation-power-control-pxygosgcbaic-068_151208_129013.zip`
+- `EGL-310 (1)/homeplugalliance-plc.jpg`
+- `EGL-310 (1)/images.jpg`
+- `EGL-310 (1)/prox-chart1.jpg`
+- `EGL-310 (1)/setup.doc`
+- `EGL-310 (1)/stock-photo-high-resolution-d-rendered-binary-tunnel-for-technology-backgrounds-8736409.jpg`
+- `EGL-310 (1)/t4.jpg`
+- `EGL-310 (1)/tech-zigbee-image.jpg`
+- `EGL-310 (1)/wireless_router.jpg`
+- `EGL-310 (1)/zigbee_installation_tips-instructionsEGL310.pdf`
+- `EGL-310 (1)/zigbee_tools_tech_big.jpg`
