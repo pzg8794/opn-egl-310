@@ -2,17 +2,15 @@
 
 Path: `EGL-310 (1)`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `home-automation-power-control-pxygosgcbaic-068_151208_129013/` (folder)
 - `39672783092451592.gif` (file)
-- `AnotherArticle.doc` (file)
-- `Article.doc` (file)
 - `as114anacle-systems-app-story.gif` (file)
-- `Assignment 9_Memo.docx` (file)
-- `assignment5.doc` (file)
-- `assignment5.pdf` (file)
-- `AssignmentforTuesdayEGL.doc` (file)
 - `BackGround.jpg` (file)
 - `BackGround1.jpg` (file)
 - `Brochure - EGL-310.pdf` (file)
@@ -20,12 +18,7 @@ Path: `EGL-310 (1)`
 - `cisco_home_energy_management_med_2.jpg` (file)
 - `control4_EC100.jpg` (file)
 - `EGL-310 Assigment 7.docx` (file)
-- `EGL-310 Assignment 6.doc` (file)
-- `EGL-310 Assignment 6.pdf` (file)
-- `egl-310 assignment 7a.docx` (file)
-- `EGL-310 ASSIGNMENT6.doc` (file)
 - `EGL-310_Assigment_7.docx` (file)
-- `EGL-310_Assignment_6.pdf` (file)
 - `essay info.docx` (file)
 - `farmingdale.gif` (file)
 - `Future Career and Social Media.doc` (file)
@@ -42,14 +35,12 @@ Path: `EGL-310 (1)`
 - `Pages_Templates_User_Manual.pdf` (file)
 - `Person to Interview.doc` (file)
 - `prox-chart1.jpg` (file)
-- `Question_2_-_EGL_SECOND_ASSIGNMENT.docx` (file)
 - `setup.doc` (file)
 - `SKXbee User Manual_new.rtf` (file)
 - `Smartmeter-Network.jpg` (file)
 - `stock-photo-high-resolution-d-rendered-binary-tunnel-for-technology-backgrounds-8736409.jpg` (file)
 - `t4.jpg` (file)
 - `tech-zigbee-image.jpg` (file)
-- `TheArticle.doc` (file)
 - `TheInterviewReally.doc` (file)
 - `wireless_router.jpg` (file)
 - `Zigbee Network.jpg` (file)
@@ -58,4 +49,4 @@ Path: `EGL-310 (1)`
 
 ## Notes
 
-Indexed from the old Portafolio Drive source. Large media/archives remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

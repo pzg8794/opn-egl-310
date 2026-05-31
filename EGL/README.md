@@ -2,11 +2,14 @@
 
 Path: `EGL`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `A Rose for Emily.docx` (file)
 - `A Rose for Emily1.docx` (file)
-- `Abstract Expressionism is a modern art movement which came about in America a little after world war two.docx` (file)
 - `Advertising cover.docx` (file)
 - `Advertising has existed in the world since the beginning of our society.docx` (file)
 - `Advertising.docx` (file)
@@ -41,4 +44,4 @@ Path: `EGL`
 
 ## Notes
 
-Indexed from the old Portafolio Drive source. Large media/archives remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

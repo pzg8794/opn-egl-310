@@ -1,24 +1,29 @@
-# EGL-310
-
-Area: Projects-No-Code
+# opn-egl-310
 
 Drive source: https://drive.google.com/drive/folders/1g_vLUpKz-_nbxKxBm3sL_0O53E9vgvYD
 
-Purpose: Old Portafolio non-code/publication project evidence. Use this repo for inspectable documents/source; use Drive for bulky original media and archives.
+Purpose: cleaned old Portafolio repository with documents separated for future reuse and Overleaf conversion.
 
-## Included Top-Level Items
+## Main Directories
+
+- [`papers/`](./papers/README.md) - Research papers, papers, proposals, theses, and publication-like materials.
+- [`reports/`](./reports/README.md) - Reports, lab reports, assignments, final-project writeups, and documentation.
+- [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
+
+## Top-Level Items
 
 - `EGL/` (folder)
 - `EGL-310 (1)/` (folder)
+- `papers/` (folder)
+- `presentations/` (folder)
+- `reports/` (folder)
 - `.gitignore` (file)
 - `39672783092451592.gif` (file)
 - `DRIVE_OVERVIEW.md` (file)
 - `IMPORT_NOTES.md` (file)
 
-## Drive-Only Material
+## Organization Notes
 
-Large videos, archives, installers, and media are kept in Drive.
-
-## Directory Coverage
-
-Every included directory has a `README.md` index.
+- Large binaries, installers, media, and archives may remain in Google Drive and be referenced from `IMPORT_NOTES.md` or `DRIVE_OVERVIEW.md`.
+- Each included directory has a `README.md` index.
+- `papers/`, `reports/`, and `presentations/` are intentionally separated so later Overleaf work can start from a clean source bucket.
